@@ -5,7 +5,7 @@
 FROM debian:jessie
 
 
-MAINTAINER Alex Master
+MAINTAINER Aleksey Chirkin
 
 ENV \
   DEBIAN_FRONTEND=noninteractive \
